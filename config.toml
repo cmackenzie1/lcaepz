@@ -1,0 +1,32 @@
+baseURL = "https://sites.ualberta.ca/~lambda"
+languageCode = "en-us"
+title = "Lambda Chi Alpha - Epsilon Rho Zeta"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+tags = ["fraternity", "ualberta", "University of Alberta", "lambda chi alpha", "lambda chi", "greek", "edmonton"]
+
+[Params]
+  tagline = "Lambda Chi Alpha - Epsilon Rho Zeta"
+  author = "Cole Mackenzie"
+  description = "Lambda Chi Alpha - Epsilon Rho Zeta at the University of Alberta"
+  logoBig = "/images/epz-banner.png"
+  logoSmall = "/images/epz-small.png"
+  favicon = "favicon.ico"
+  opengraphImage = "/images/epz-banner.png"
+  email = "lambda@ualberta.ca"
+  # Social media links in footer
+  twitter = "uofalca"
+  facebook = "uofaLCA"
+  instagram = "uofalca"
+  # Contact form
+  ajaxBasin = "https://usebasin.com/f/d3b36750790a"
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 2
