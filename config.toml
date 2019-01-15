@@ -4,6 +4,7 @@ title = "Lambda Chi Alpha - Epsilon Rho Zeta"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
+googleAnalytics = "UA-132511269-1"
 tags = ["fraternity", "ualberta", "University of Alberta", "lambda chi alpha", "lambda chi", "greek", "edmonton"]
 
 [Params]

@@ -11,4 +11,5 @@ If you’re interested in partnering with Lambda Chi Alpha for a philanthropic, 
 For more information on joining our great fraternity, please contact our recruitment chair at <a href="mailto:recruitment@epsilonrho.ca">recruitment@epsilonrho.ca</a>
 
 In ZAX,
+
 The Brothers of Lambda Chi Alpha
